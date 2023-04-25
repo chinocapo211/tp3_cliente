@@ -1,0 +1,15 @@
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.csproj.AssemblyReference.cache
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.AssemblyInfoInputs.cache
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.AssemblyInfo.cs
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.csproj.CoreCompileInputs.cache
+Z:\Tecnologia\4to\programacion\tp3_cliente\bin\Debug\net7.0\tp3_cliente.exe
+Z:\Tecnologia\4to\programacion\tp3_cliente\bin\Debug\net7.0\tp3_cliente.deps.json
+Z:\Tecnologia\4to\programacion\tp3_cliente\bin\Debug\net7.0\tp3_cliente.runtimeconfig.json
+Z:\Tecnologia\4to\programacion\tp3_cliente\bin\Debug\net7.0\tp3_cliente.dll
+Z:\Tecnologia\4to\programacion\tp3_cliente\bin\Debug\net7.0\tp3_cliente.pdb
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.dll
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\refint\tp3_cliente.dll
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.pdb
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\tp3_cliente.genruntimeconfig.cache
+Z:\Tecnologia\4to\programacion\tp3_cliente\obj\Debug\net7.0\ref\tp3_cliente.dll
